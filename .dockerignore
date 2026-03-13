@@ -1,0 +1,7 @@
+.venv/
+.idea/
+test/
+__pycache__/
+*.pyc
+.git/
+*.md

@@ -1,0 +1,1772 @@
+{
+  "0": {
+    "name": "Grand Piano",
+    "soundfont": "GeneralUser-GS.sf2",
+    "bank": 0,
+    "program": 0
+  },
+  "1": {
+    "name": "Bright Grand Piano",
+    "soundfont": "GeneralUser-GS.sf2",
+    "bank": 0,
+    "program": 1
+  },
+  "2": {
+    "name": "Electric Grand Piano",
+    "soundfont": "GeneralUser-GS.sf2",
+    "bank": 0,
+    "program": 2
+  },
+  "3": {
+    "name": "Honky-Tonk Piano",
+    "soundfont": "GeneralUser-GS.sf2",
+    "bank": 0,
+    "program": 3
+  },
+  "4": {
+    "name": "Tine Electric Piano",
+    "soundfont": "GeneralUser-GS.sf2",
+    "bank": 0,
+    "program": 4
+  },
+  "5": {
+    "name": "FM Electric Piano",
+    "soundfont": "GeneralUser-GS.sf2",
+    "bank": 0,
+    "program": 5
+  },
+  "6": {
+    "name": "Harpsichord",
+    "soundfont": "GeneralUser-GS.sf2",
+    "bank": 0,
+    "program": 6
+  },
+  "7": {
+    "name": "Clavinet",
+    "soundfont": "GeneralUser-GS.sf2",
+    "bank": 0,
+    "program": 7
+  },
+  "8": {
+    "name": "Celeste",
+    "soundfont": "GeneralUser-GS.sf2",
+    "bank": 0,
+    "program": 8
+  },
+  "9": {
+    "name": "Glockenspiel",
+    "soundfont": "GeneralUser-GS.sf2",
+    "bank": 0,
+    "program": 9
+  },
+  "10": {
+    "name": "Music Box",
+    "soundfont": "GeneralUser-GS.sf2",
+    "bank": 0,
+    "program": 10
+  },
+  "11": {
+    "name": "Vibraphone",
+    "soundfont": "GeneralUser-GS.sf2",
+    "bank": 0,
+    "program": 11
+  },
+  "12": {
+    "name": "Marimba",
+    "soundfont": "GeneralUser-GS.sf2",
+    "bank": 0,
+    "program": 12
+  },
+  "13": {
+    "name": "Xylophone",
+    "soundfont": "GeneralUser-GS.sf2",
+    "bank": 0,
+    "program": 13
+  },
+  "14": {
+    "name": "Tubular Bells",
+    "soundfont": "GeneralUser-GS.sf2",
+    "bank": 0,
+    "program": 14
+  },
+  "15": {
+    "name": "Dulcimer",
+    "soundfont": "GeneralUser-GS.sf2",
+    "bank": 0,
+    "program": 15
+  },
+  "16": {
+    "name": "Tonewheel Organ",
+    "soundfont": "GeneralUser-GS.sf2",
+    "bank": 0,
+    "program": 16
+  },
+  "17": {
+    "name": "Percussive Organ",
+    "soundfont": "GeneralUser-GS.sf2",
+    "bank": 0,
+    "program": 17
+  },
+  "18": {
+    "name": "Rock Organ",
+    "soundfont": "GeneralUser-GS.sf2",
+    "bank": 0,
+    "program": 18
+  },
+  "19": {
+    "name": "Pipe Organ",
+    "soundfont": "GeneralUser-GS.sf2",
+    "bank": 0,
+    "program": 19
+  },
+  "20": {
+    "name": "Reed Organ",
+    "soundfont": "GeneralUser-GS.sf2",
+    "bank": 0,
+    "program": 20
+  },
+  "21": {
+    "name": "Accordion",
+    "soundfont": "GeneralUser-GS.sf2",
+    "bank": 0,
+    "program": 21
+  },
+  "22": {
+    "name": "Harmonica",
+    "soundfont": "GeneralUser-GS.sf2",
+    "bank": 0,
+    "program": 22
+  },
+  "23": {
+    "name": "Bandoneon",
+    "soundfont": "GeneralUser-GS.sf2",
+    "bank": 0,
+    "program": 23
+  },
+  "24": {
+    "name": "Nylon Guitar",
+    "soundfont": "GeneralUser-GS.sf2",
+    "bank": 0,
+    "program": 24
+  },
+  "25": {
+    "name": "Steel Guitar",
+    "soundfont": "GeneralUser-GS.sf2",
+    "bank": 0,
+    "program": 25
+  },
+  "26": {
+    "name": "Jazz Guitar",
+    "soundfont": "GeneralUser-GS.sf2",
+    "bank": 0,
+    "program": 26
+  },
+  "27": {
+    "name": "Clean Guitar",
+    "soundfont": "GeneralUser-GS.sf2",
+    "bank": 0,
+    "program": 27
+  },
+  "28": {
+    "name": "Muted Guitar",
+    "soundfont": "GeneralUser-GS.sf2",
+    "bank": 0,
+    "program": 28
+  },
+  "29": {
+    "name": "Overdrive Guitar",
+    "soundfont": "GeneralUser-GS.sf2",
+    "bank": 0,
+    "program": 29
+  },
+  "30": {
+    "name": "Distortion Guitar",
+    "soundfont": "GeneralUser-GS.sf2",
+    "bank": 0,
+    "program": 30
+  },
+  "31": {
+    "name": "Guitar Harmonics",
+    "soundfont": "GeneralUser-GS.sf2",
+    "bank": 0,
+    "program": 31
+  },
+  "32": {
+    "name": "Acoustic Bass",
+    "soundfont": "GeneralUser-GS.sf2",
+    "bank": 0,
+    "program": 32
+  },
+  "33": {
+    "name": "Finger Bass",
+    "soundfont": "GeneralUser-GS.sf2",
+    "bank": 0,
+    "program": 33
+  },
+  "34": {
+    "name": "Pick Bass",
+    "soundfont": "GeneralUser-GS.sf2",
+    "bank": 0,
+    "program": 34
+  },
+  "35": {
+    "name": "Fretless Bass",
+    "soundfont": "GeneralUser-GS.sf2",
+    "bank": 0,
+    "program": 35
+  },
+  "36": {
+    "name": "Slap Bass 1",
+    "soundfont": "GeneralUser-GS.sf2",
+    "bank": 0,
+    "program": 36
+  },
+  "37": {
+    "name": "Slap Bass 2",
+    "soundfont": "GeneralUser-GS.sf2",
+    "bank": 0,
+    "program": 37
+  },
+  "38": {
+    "name": "Synth Bass 1",
+    "soundfont": "GeneralUser-GS.sf2",
+    "bank": 0,
+    "program": 38
+  },
+  "39": {
+    "name": "Synth Bass 2",
+    "soundfont": "GeneralUser-GS.sf2",
+    "bank": 0,
+    "program": 39
+  },
+  "40": {
+    "name": "Violin",
+    "soundfont": "GeneralUser-GS.sf2",
+    "bank": 0,
+    "program": 40
+  },
+  "41": {
+    "name": "Viola",
+    "soundfont": "GeneralUser-GS.sf2",
+    "bank": 0,
+    "program": 41
+  },
+  "42": {
+    "name": "Cello",
+    "soundfont": "GeneralUser-GS.sf2",
+    "bank": 0,
+    "program": 42
+  },
+  "43": {
+    "name": "Double Bass",
+    "soundfont": "GeneralUser-GS.sf2",
+    "bank": 0,
+    "program": 43
+  },
+  "44": {
+    "name": "Tremolo Strings",
+    "soundfont": "GeneralUser-GS.sf2",
+    "bank": 0,
+    "program": 44
+  },
+  "45": {
+    "name": "Pizzicato Strings",
+    "soundfont": "GeneralUser-GS.sf2",
+    "bank": 0,
+    "program": 45
+  },
+  "46": {
+    "name": "Orchestral Harp",
+    "soundfont": "GeneralUser-GS.sf2",
+    "bank": 0,
+    "program": 46
+  },
+  "47": {
+    "name": "Timpani",
+    "soundfont": "GeneralUser-GS.sf2",
+    "bank": 0,
+    "program": 47
+  },
+  "48": {
+    "name": "Fast Strings",
+    "soundfont": "GeneralUser-GS.sf2",
+    "bank": 0,
+    "program": 48
+  },
+  "49": {
+    "name": "Slow Strings",
+    "soundfont": "GeneralUser-GS.sf2",
+    "bank": 0,
+    "program": 49
+  },
+  "50": {
+    "name": "Synth Strings 1",
+    "soundfont": "GeneralUser-GS.sf2",
+    "bank": 0,
+    "program": 50
+  },
+  "51": {
+    "name": "Synth Strings 2",
+    "soundfont": "GeneralUser-GS.sf2",
+    "bank": 0,
+    "program": 51
+  },
+  "52": {
+    "name": "Concert Choir",
+    "soundfont": "GeneralUser-GS.sf2",
+    "bank": 0,
+    "program": 52
+  },
+  "53": {
+    "name": "Voice Oohs",
+    "soundfont": "GeneralUser-GS.sf2",
+    "bank": 0,
+    "program": 53
+  },
+  "54": {
+    "name": "Synth Voice",
+    "soundfont": "GeneralUser-GS.sf2",
+    "bank": 0,
+    "program": 54
+  },
+  "55": {
+    "name": "Orchestra Hit",
+    "soundfont": "GeneralUser-GS.sf2",
+    "bank": 0,
+    "program": 55
+  },
+  "56": {
+    "name": "Trumpet",
+    "soundfont": "GeneralUser-GS.sf2",
+    "bank": 0,
+    "program": 56
+  },
+  "57": {
+    "name": "Trombone",
+    "soundfont": "GeneralUser-GS.sf2",
+    "bank": 0,
+    "program": 57
+  },
+  "58": {
+    "name": "Tuba",
+    "soundfont": "GeneralUser-GS.sf2",
+    "bank": 0,
+    "program": 58
+  },
+  "59": {
+    "name": "Muted Trumpet",
+    "soundfont": "GeneralUser-GS.sf2",
+    "bank": 0,
+    "program": 59
+  },
+  "60": {
+    "name": "French Horns",
+    "soundfont": "GeneralUser-GS.sf2",
+    "bank": 0,
+    "program": 60
+  },
+  "61": {
+    "name": "Brass Section",
+    "soundfont": "GeneralUser-GS.sf2",
+    "bank": 0,
+    "program": 61
+  },
+  "62": {
+    "name": "Synth Brass 1",
+    "soundfont": "GeneralUser-GS.sf2",
+    "bank": 0,
+    "program": 62
+  },
+  "63": {
+    "name": "Synth Brass 2",
+    "soundfont": "GeneralUser-GS.sf2",
+    "bank": 0,
+    "program": 63
+  },
+  "64": {
+    "name": "Soprano Sax",
+    "soundfont": "GeneralUser-GS.sf2",
+    "bank": 0,
+    "program": 64
+  },
+  "65": {
+    "name": "Alto Sax",
+    "soundfont": "GeneralUser-GS.sf2",
+    "bank": 0,
+    "program": 65
+  },
+  "66": {
+    "name": "Tenor Sax",
+    "soundfont": "GeneralUser-GS.sf2",
+    "bank": 0,
+    "program": 66
+  },
+  "67": {
+    "name": "Baritone Sax",
+    "soundfont": "GeneralUser-GS.sf2",
+    "bank": 0,
+    "program": 67
+  },
+  "68": {
+    "name": "Oboe",
+    "soundfont": "GeneralUser-GS.sf2",
+    "bank": 0,
+    "program": 68
+  },
+  "69": {
+    "name": "English Horn",
+    "soundfont": "GeneralUser-GS.sf2",
+    "bank": 0,
+    "program": 69
+  },
+  "70": {
+    "name": "Bassoon",
+    "soundfont": "GeneralUser-GS.sf2",
+    "bank": 0,
+    "program": 70
+  },
+  "71": {
+    "name": "Clarinet",
+    "soundfont": "GeneralUser-GS.sf2",
+    "bank": 0,
+    "program": 71
+  },
+  "72": {
+    "name": "Piccolo",
+    "soundfont": "GeneralUser-GS.sf2",
+    "bank": 0,
+    "program": 72
+  },
+  "73": {
+    "name": "Flute",
+    "soundfont": "GeneralUser-GS.sf2",
+    "bank": 0,
+    "program": 73
+  },
+  "74": {
+    "name": "Recorder",
+    "soundfont": "GeneralUser-GS.sf2",
+    "bank": 0,
+    "program": 74
+  },
+  "75": {
+    "name": "Pan Flute",
+    "soundfont": "GeneralUser-GS.sf2",
+    "bank": 0,
+    "program": 75
+  },
+  "76": {
+    "name": "Bottle Blow",
+    "soundfont": "GeneralUser-GS.sf2",
+    "bank": 0,
+    "program": 76
+  },
+  "77": {
+    "name": "Shakuhachi",
+    "soundfont": "GeneralUser-GS.sf2",
+    "bank": 0,
+    "program": 77
+  },
+  "78": {
+    "name": "Whistle",
+    "soundfont": "GeneralUser-GS.sf2",
+    "bank": 0,
+    "program": 78
+  },
+  "79": {
+    "name": "Ocarina",
+    "soundfont": "GeneralUser-GS.sf2",
+    "bank": 0,
+    "program": 79
+  },
+  "80": {
+    "name": "Square Lead",
+    "soundfont": "GeneralUser-GS.sf2",
+    "bank": 0,
+    "program": 80
+  },
+  "81": {
+    "name": "Saw Lead",
+    "soundfont": "GeneralUser-GS.sf2",
+    "bank": 0,
+    "program": 81
+  },
+  "82": {
+    "name": "Synth Calliope",
+    "soundfont": "GeneralUser-GS.sf2",
+    "bank": 0,
+    "program": 82
+  },
+  "83": {
+    "name": "Chiffer Lead",
+    "soundfont": "GeneralUser-GS.sf2",
+    "bank": 0,
+    "program": 83
+  },
+  "84": {
+    "name": "Charang",
+    "soundfont": "GeneralUser-GS.sf2",
+    "bank": 0,
+    "program": 84
+  },
+  "85": {
+    "name": "Solo Vox",
+    "soundfont": "GeneralUser-GS.sf2",
+    "bank": 0,
+    "program": 85
+  },
+  "86": {
+    "name": "5th Saw Wave",
+    "soundfont": "GeneralUser-GS.sf2",
+    "bank": 0,
+    "program": 86
+  },
+  "87": {
+    "name": "Bass & Lead",
+    "soundfont": "GeneralUser-GS.sf2",
+    "bank": 0,
+    "program": 87
+  },
+  "88": {
+    "name": "Fantasia",
+    "soundfont": "GeneralUser-GS.sf2",
+    "bank": 0,
+    "program": 88
+  },
+  "89": {
+    "name": "Warm Pad",
+    "soundfont": "GeneralUser-GS.sf2",
+    "bank": 0,
+    "program": 89
+  },
+  "90": {
+    "name": "Polysynth",
+    "soundfont": "GeneralUser-GS.sf2",
+    "bank": 0,
+    "program": 90
+  },
+  "91": {
+    "name": "Space Voice",
+    "soundfont": "GeneralUser-GS.sf2",
+    "bank": 0,
+    "program": 91
+  },
+  "92": {
+    "name": "Bowed Glass",
+    "soundfont": "GeneralUser-GS.sf2",
+    "bank": 0,
+    "program": 92
+  },
+  "93": {
+    "name": "Metal Pad",
+    "soundfont": "GeneralUser-GS.sf2",
+    "bank": 0,
+    "program": 93
+  },
+  "94": {
+    "name": "Halo Pad",
+    "soundfont": "GeneralUser-GS.sf2",
+    "bank": 0,
+    "program": 94
+  },
+  "95": {
+    "name": "Sweep Pad",
+    "soundfont": "GeneralUser-GS.sf2",
+    "bank": 0,
+    "program": 95
+  },
+  "96": {
+    "name": "Ice Rain",
+    "soundfont": "GeneralUser-GS.sf2",
+    "bank": 0,
+    "program": 96
+  },
+  "97": {
+    "name": "Soundtrack",
+    "soundfont": "GeneralUser-GS.sf2",
+    "bank": 0,
+    "program": 97
+  },
+  "98": {
+    "name": "Crystal",
+    "soundfont": "GeneralUser-GS.sf2",
+    "bank": 0,
+    "program": 98
+  },
+  "99": {
+    "name": "Atmosphere",
+    "soundfont": "GeneralUser-GS.sf2",
+    "bank": 0,
+    "program": 99
+  },
+  "100": {
+    "name": "Brightness",
+    "soundfont": "GeneralUser-GS.sf2",
+    "bank": 0,
+    "program": 100
+  },
+  "101": {
+    "name": "Goblin",
+    "soundfont": "GeneralUser-GS.sf2",
+    "bank": 0,
+    "program": 101
+  },
+  "102": {
+    "name": "Echo Drops",
+    "soundfont": "GeneralUser-GS.sf2",
+    "bank": 0,
+    "program": 102
+  },
+  "103": {
+    "name": "Star Theme",
+    "soundfont": "GeneralUser-GS.sf2",
+    "bank": 0,
+    "program": 103
+  },
+  "104": {
+    "name": "Sitar",
+    "soundfont": "GeneralUser-GS.sf2",
+    "bank": 0,
+    "program": 104
+  },
+  "105": {
+    "name": "Banjo",
+    "soundfont": "GeneralUser-GS.sf2",
+    "bank": 0,
+    "program": 105
+  },
+  "106": {
+    "name": "Shamisen",
+    "soundfont": "GeneralUser-GS.sf2",
+    "bank": 0,
+    "program": 106
+  },
+  "107": {
+    "name": "Koto",
+    "soundfont": "GeneralUser-GS.sf2",
+    "bank": 0,
+    "program": 107
+  },
+  "108": {
+    "name": "Kalimba",
+    "soundfont": "GeneralUser-GS.sf2",
+    "bank": 0,
+    "program": 108
+  },
+  "109": {
+    "name": "Bagpipes",
+    "soundfont": "GeneralUser-GS.sf2",
+    "bank": 0,
+    "program": 109
+  },
+  "110": {
+    "name": "Fiddle",
+    "soundfont": "GeneralUser-GS.sf2",
+    "bank": 0,
+    "program": 110
+  },
+  "111": {
+    "name": "Shenai",
+    "soundfont": "GeneralUser-GS.sf2",
+    "bank": 0,
+    "program": 111
+  },
+  "112": {
+    "name": "Tinker Bell",
+    "soundfont": "GeneralUser-GS.sf2",
+    "bank": 0,
+    "program": 112
+  },
+  "113": {
+    "name": "Agogo",
+    "soundfont": "GeneralUser-GS.sf2",
+    "bank": 0,
+    "program": 113
+  },
+  "114": {
+    "name": "Steel Drums",
+    "soundfont": "GeneralUser-GS.sf2",
+    "bank": 0,
+    "program": 114
+  },
+  "115": {
+    "name": "Wood Block",
+    "soundfont": "GeneralUser-GS.sf2",
+    "bank": 0,
+    "program": 115
+  },
+  "116": {
+    "name": "Taiko Drum",
+    "soundfont": "GeneralUser-GS.sf2",
+    "bank": 0,
+    "program": 116
+  },
+  "117": {
+    "name": "Melodic Tom",
+    "soundfont": "GeneralUser-GS.sf2",
+    "bank": 0,
+    "program": 117
+  },
+  "118": {
+    "name": "Synth Drum",
+    "soundfont": "GeneralUser-GS.sf2",
+    "bank": 0,
+    "program": 118
+  },
+  "119": {
+    "name": "Reverse Cymbal",
+    "soundfont": "GeneralUser-GS.sf2",
+    "bank": 0,
+    "program": 119
+  },
+  "120": {
+    "name": "Fret Noise",
+    "soundfont": "GeneralUser-GS.sf2",
+    "bank": 0,
+    "program": 120
+  },
+  "121": {
+    "name": "Breath Noise",
+    "soundfont": "GeneralUser-GS.sf2",
+    "bank": 0,
+    "program": 121
+  },
+  "122": {
+    "name": "Seashore",
+    "soundfont": "GeneralUser-GS.sf2",
+    "bank": 0,
+    "program": 122
+  },
+  "123": {
+    "name": "Birds",
+    "soundfont": "GeneralUser-GS.sf2",
+    "bank": 0,
+    "program": 123
+  },
+  "124": {
+    "name": "Telephone 1",
+    "soundfont": "GeneralUser-GS.sf2",
+    "bank": 0,
+    "program": 124
+  },
+  "125": {
+    "name": "Helicopter",
+    "soundfont": "GeneralUser-GS.sf2",
+    "bank": 0,
+    "program": 125
+  },
+  "126": {
+    "name": "Applause",
+    "soundfont": "GeneralUser-GS.sf2",
+    "bank": 0,
+    "program": 126
+  },
+  "127": {
+    "name": "Gun Shot",
+    "soundfont": "GeneralUser-GS.sf2",
+    "bank": 0,
+    "program": 127
+  },
+  "128": {
+    "name": "Synth Bass 101",
+    "soundfont": "GeneralUser-GS.sf2",
+    "bank": 1,
+    "program": 38
+  },
+  "129": {
+    "name": "Tremolo Strings Mono",
+    "soundfont": "GeneralUser-GS.sf2",
+    "bank": 1,
+    "program": 44
+  },
+  "130": {
+    "name": "Fast Strings Mono",
+    "soundfont": "GeneralUser-GS.sf2",
+    "bank": 1,
+    "program": 48
+  },
+  "131": {
+    "name": "Slow Strings Mono",
+    "soundfont": "GeneralUser-GS.sf2",
+    "bank": 1,
+    "program": 49
+  },
+  "132": {
+    "name": "Concert Choir Mono",
+    "soundfont": "GeneralUser-GS.sf2",
+    "bank": 1,
+    "program": 52
+  },
+  "133": {
+    "name": "Trumpet 2",
+    "soundfont": "GeneralUser-GS.sf2",
+    "bank": 1,
+    "program": 56
+  },
+  "134": {
+    "name": "Trombone 2",
+    "soundfont": "GeneralUser-GS.sf2",
+    "bank": 1,
+    "program": 57
+  },
+  "135": {
+    "name": "Solo French Horn",
+    "soundfont": "GeneralUser-GS.sf2",
+    "bank": 1,
+    "program": 60
+  },
+  "136": {
+    "name": "Brass Section Mono",
+    "soundfont": "GeneralUser-GS.sf2",
+    "bank": 1,
+    "program": 61
+  },
+  "137": {
+    "name": "Square Wave",
+    "soundfont": "GeneralUser-GS.sf2",
+    "bank": 1,
+    "program": 80
+  },
+  "138": {
+    "name": "Saw Wave",
+    "soundfont": "GeneralUser-GS.sf2",
+    "bank": 1,
+    "program": 81
+  },
+  "139": {
+    "name": "Synth Mallet",
+    "soundfont": "GeneralUser-GS.sf2",
+    "bank": 1,
+    "program": 98
+  },
+  "140": {
+    "name": "Cut Noise",
+    "soundfont": "GeneralUser-GS.sf2",
+    "bank": 1,
+    "program": 120
+  },
+  "141": {
+    "name": "Fl. Key Click",
+    "soundfont": "GeneralUser-GS.sf2",
+    "bank": 1,
+    "program": 121
+  },
+  "142": {
+    "name": "Rain",
+    "soundfont": "GeneralUser-GS.sf2",
+    "bank": 1,
+    "program": 122
+  },
+  "143": {
+    "name": "Dog",
+    "soundfont": "GeneralUser-GS.sf2",
+    "bank": 1,
+    "program": 123
+  },
+  "144": {
+    "name": "Telephone 2",
+    "soundfont": "GeneralUser-GS.sf2",
+    "bank": 1,
+    "program": 124
+  },
+  "145": {
+    "name": "Car-Engine",
+    "soundfont": "GeneralUser-GS.sf2",
+    "bank": 1,
+    "program": 125
+  },
+  "146": {
+    "name": "Laughing",
+    "soundfont": "GeneralUser-GS.sf2",
+    "bank": 1,
+    "program": 126
+  },
+  "147": {
+    "name": "Machine Gun",
+    "soundfont": "GeneralUser-GS.sf2",
+    "bank": 1,
+    "program": 127
+  },
+  "148": {
+    "name": "Echo Pan",
+    "soundfont": "GeneralUser-GS.sf2",
+    "bank": 2,
+    "program": 102
+  },
+  "149": {
+    "name": "String Slap",
+    "soundfont": "GeneralUser-GS.sf2",
+    "bank": 2,
+    "program": 120
+  },
+  "150": {
+    "name": "Thunder",
+    "soundfont": "GeneralUser-GS.sf2",
+    "bank": 2,
+    "program": 122
+  },
+  "151": {
+    "name": "Horse Gallop",
+    "soundfont": "GeneralUser-GS.sf2",
+    "bank": 2,
+    "program": 123
+  },
+  "152": {
+    "name": "Door Creaking",
+    "soundfont": "GeneralUser-GS.sf2",
+    "bank": 2,
+    "program": 124
+  },
+  "153": {
+    "name": "Car-Stop",
+    "soundfont": "GeneralUser-GS.sf2",
+    "bank": 2,
+    "program": 125
+  },
+  "154": {
+    "name": "Scream",
+    "soundfont": "GeneralUser-GS.sf2",
+    "bank": 2,
+    "program": 126
+  },
+  "155": {
+    "name": "Lasergun",
+    "soundfont": "GeneralUser-GS.sf2",
+    "bank": 2,
+    "program": 127
+  },
+  "156": {
+    "name": "Wind",
+    "soundfont": "GeneralUser-GS.sf2",
+    "bank": 3,
+    "program": 122
+  },
+  "157": {
+    "name": "Bird 2",
+    "soundfont": "GeneralUser-GS.sf2",
+    "bank": 3,
+    "program": 123
+  },
+  "158": {
+    "name": "Door",
+    "soundfont": "GeneralUser-GS.sf2",
+    "bank": 3,
+    "program": 124
+  },
+  "159": {
+    "name": "Car-Pass",
+    "soundfont": "GeneralUser-GS.sf2",
+    "bank": 3,
+    "program": 125
+  },
+  "160": {
+    "name": "Punch",
+    "soundfont": "GeneralUser-GS.sf2",
+    "bank": 3,
+    "program": 126
+  },
+  "161": {
+    "name": "Explosion",
+    "soundfont": "GeneralUser-GS.sf2",
+    "bank": 3,
+    "program": 127
+  },
+  "162": {
+    "name": "Stream",
+    "soundfont": "GeneralUser-GS.sf2",
+    "bank": 4,
+    "program": 122
+  },
+  "163": {
+    "name": "Scratch",
+    "soundfont": "GeneralUser-GS.sf2",
+    "bank": 4,
+    "program": 124
+  },
+  "164": {
+    "name": "Car-Crash",
+    "soundfont": "GeneralUser-GS.sf2",
+    "bank": 4,
+    "program": 125
+  },
+  "165": {
+    "name": "Heart Beat",
+    "soundfont": "GeneralUser-GS.sf2",
+    "bank": 4,
+    "program": 126
+  },
+  "166": {
+    "name": "Bubbles",
+    "soundfont": "GeneralUser-GS.sf2",
+    "bank": 5,
+    "program": 122
+  },
+  "167": {
+    "name": "Windchime",
+    "soundfont": "GeneralUser-GS.sf2",
+    "bank": 5,
+    "program": 124
+  },
+  "168": {
+    "name": "Siren",
+    "soundfont": "GeneralUser-GS.sf2",
+    "bank": 5,
+    "program": 125
+  },
+  "169": {
+    "name": "Footsteps",
+    "soundfont": "GeneralUser-GS.sf2",
+    "bank": 5,
+    "program": 126
+  },
+  "170": {
+    "name": "Train",
+    "soundfont": "GeneralUser-GS.sf2",
+    "bank": 6,
+    "program": 125
+  },
+  "171": {
+    "name": "Jet Plane",
+    "soundfont": "GeneralUser-GS.sf2",
+    "bank": 7,
+    "program": 125
+  },
+  "172": {
+    "name": "Chorused Tine EP",
+    "soundfont": "GeneralUser-GS.sf2",
+    "bank": 8,
+    "program": 4
+  },
+  "173": {
+    "name": "Chorused FM EP",
+    "soundfont": "GeneralUser-GS.sf2",
+    "bank": 8,
+    "program": 5
+  },
+  "174": {
+    "name": "Coupled Harpsichord",
+    "soundfont": "GeneralUser-GS.sf2",
+    "bank": 8,
+    "program": 6
+  },
+  "175": {
+    "name": "Church Bells",
+    "soundfont": "GeneralUser-GS.sf2",
+    "bank": 8,
+    "program": 14
+  },
+  "176": {
+    "name": "Detuned Tnwl. Organ",
+    "soundfont": "GeneralUser-GS.sf2",
+    "bank": 8,
+    "program": 16
+  },
+  "177": {
+    "name": "Detuned Perc. Organ",
+    "soundfont": "GeneralUser-GS.sf2",
+    "bank": 8,
+    "program": 17
+  },
+  "178": {
+    "name": "Pipe Organ 2",
+    "soundfont": "GeneralUser-GS.sf2",
+    "bank": 8,
+    "program": 19
+  },
+  "179": {
+    "name": "Italian Accordion",
+    "soundfont": "GeneralUser-GS.sf2",
+    "bank": 8,
+    "program": 21
+  },
+  "180": {
+    "name": "Ukulele",
+    "soundfont": "GeneralUser-GS.sf2",
+    "bank": 8,
+    "program": 24
+  },
+  "181": {
+    "name": "12-String Guitar",
+    "soundfont": "GeneralUser-GS.sf2",
+    "bank": 8,
+    "program": 25
+  },
+  "182": {
+    "name": "Hawaiian Guitar",
+    "soundfont": "GeneralUser-GS.sf2",
+    "bank": 8,
+    "program": 26
+  },
+  "183": {
+    "name": "Chorused Clean Gt.",
+    "soundfont": "GeneralUser-GS.sf2",
+    "bank": 8,
+    "program": 27
+  },
+  "184": {
+    "name": "Funk Guitar",
+    "soundfont": "GeneralUser-GS.sf2",
+    "bank": 8,
+    "program": 28
+  },
+  "185": {
+    "name": "Feedback Guitar",
+    "soundfont": "GeneralUser-GS.sf2",
+    "bank": 8,
+    "program": 30
+  },
+  "186": {
+    "name": "Guitar Feedback",
+    "soundfont": "GeneralUser-GS.sf2",
+    "bank": 8,
+    "program": 31
+  },
+  "187": {
+    "name": "Acid Bass",
+    "soundfont": "GeneralUser-GS.sf2",
+    "bank": 8,
+    "program": 38
+  },
+  "188": {
+    "name": "Beef FM Bass",
+    "soundfont": "GeneralUser-GS.sf2",
+    "bank": 8,
+    "program": 39
+  },
+  "189": {
+    "name": "Orchestra Pad",
+    "soundfont": "GeneralUser-GS.sf2",
+    "bank": 8,
+    "program": 48
+  },
+  "190": {
+    "name": "Synth Strings 3",
+    "soundfont": "GeneralUser-GS.sf2",
+    "bank": 8,
+    "program": 50
+  },
+  "191": {
+    "name": "Brass Section 2",
+    "soundfont": "GeneralUser-GS.sf2",
+    "bank": 8,
+    "program": 61
+  },
+  "192": {
+    "name": "Synth Brass 3",
+    "soundfont": "GeneralUser-GS.sf2",
+    "bank": 8,
+    "program": 62
+  },
+  "193": {
+    "name": "Synth Brass 4",
+    "soundfont": "GeneralUser-GS.sf2",
+    "bank": 8,
+    "program": 63
+  },
+  "194": {
+    "name": "Sine Wave",
+    "soundfont": "GeneralUser-GS.sf2",
+    "bank": 8,
+    "program": 80
+  },
+  "195": {
+    "name": "Doctor Solo",
+    "soundfont": "GeneralUser-GS.sf2",
+    "bank": 8,
+    "program": 81
+  },
+  "196": {
+    "name": "Taisho Koto",
+    "soundfont": "GeneralUser-GS.sf2",
+    "bank": 8,
+    "program": 107
+  },
+  "197": {
+    "name": "Castanets",
+    "soundfont": "GeneralUser-GS.sf2",
+    "bank": 8,
+    "program": 115
+  },
+  "198": {
+    "name": "Concert Bass Drum",
+    "soundfont": "GeneralUser-GS.sf2",
+    "bank": 8,
+    "program": 116
+  },
+  "199": {
+    "name": "Melodic Tom 2",
+    "soundfont": "GeneralUser-GS.sf2",
+    "bank": 8,
+    "program": 117
+  },
+  "200": {
+    "name": "808 Tom",
+    "soundfont": "GeneralUser-GS.sf2",
+    "bank": 8,
+    "program": 118
+  },
+  "201": {
+    "name": "Starship",
+    "soundfont": "GeneralUser-GS.sf2",
+    "bank": 8,
+    "program": 125
+  },
+  "202": {
+    "name": "Carillon",
+    "soundfont": "GeneralUser-GS.sf2",
+    "bank": 9,
+    "program": 14
+  },
+  "203": {
+    "name": "Burst Noise",
+    "soundfont": "GeneralUser-GS.sf2",
+    "bank": 9,
+    "program": 125
+  },
+  "204": {
+    "name": "Piano & Str.-Fade",
+    "soundfont": "GeneralUser-GS.sf2",
+    "bank": 11,
+    "program": 0
+  },
+  "205": {
+    "name": "Piano & Str.-Sus",
+    "soundfont": "GeneralUser-GS.sf2",
+    "bank": 11,
+    "program": 1
+  },
+  "206": {
+    "name": "Tine & FM EPs",
+    "soundfont": "GeneralUser-GS.sf2",
+    "bank": 11,
+    "program": 4
+  },
+  "207": {
+    "name": "Piano & FM EP",
+    "soundfont": "GeneralUser-GS.sf2",
+    "bank": 11,
+    "program": 5
+  },
+  "208": {
+    "name": "Harpsichord noVel",
+    "soundfont": "GeneralUser-GS.sf2",
+    "bank": 11,
+    "program": 6
+  },
+  "209": {
+    "name": "Tinkling Bells",
+    "soundfont": "GeneralUser-GS.sf2",
+    "bank": 11,
+    "program": 8
+  },
+  "210": {
+    "name": "Vibraphone No Trem.",
+    "soundfont": "GeneralUser-GS.sf2",
+    "bank": 11,
+    "program": 11
+  },
+  "211": {
+    "name": "Bell Tower",
+    "soundfont": "GeneralUser-GS.sf2",
+    "bank": 11,
+    "program": 14
+  },
+  "212": {
+    "name": "Tonewheel Org noVel",
+    "soundfont": "GeneralUser-GS.sf2",
+    "bank": 11,
+    "program": 16
+  },
+  "213": {
+    "name": "Percussive Org noVel",
+    "soundfont": "GeneralUser-GS.sf2",
+    "bank": 11,
+    "program": 17
+  },
+  "214": {
+    "name": "Rock Organ noVel",
+    "soundfont": "GeneralUser-GS.sf2",
+    "bank": 11,
+    "program": 18
+  },
+  "215": {
+    "name": "Pipe Organ noVel",
+    "soundfont": "GeneralUser-GS.sf2",
+    "bank": 11,
+    "program": 19
+  },
+  "216": {
+    "name": "Reed Organ noVel",
+    "soundfont": "GeneralUser-GS.sf2",
+    "bank": 11,
+    "program": 20
+  },
+  "217": {
+    "name": "Wah Guitar (CC21)",
+    "soundfont": "GeneralUser-GS.sf2",
+    "bank": 11,
+    "program": 29
+  },
+  "218": {
+    "name": "Techno Bass",
+    "soundfont": "GeneralUser-GS.sf2",
+    "bank": 11,
+    "program": 38
+  },
+  "219": {
+    "name": "Pulse Bass",
+    "soundfont": "GeneralUser-GS.sf2",
+    "bank": 11,
+    "program": 39
+  },
+  "220": {
+    "name": "Velo Strings",
+    "soundfont": "GeneralUser-GS.sf2",
+    "bank": 11,
+    "program": 49
+  },
+  "221": {
+    "name": "Synth Strings 4",
+    "soundfont": "GeneralUser-GS.sf2",
+    "bank": 11,
+    "program": 50
+  },
+  "222": {
+    "name": "Synth Strings 5",
+    "soundfont": "GeneralUser-GS.sf2",
+    "bank": 11,
+    "program": 51
+  },
+  "223": {
+    "name": "Brass Section 3",
+    "soundfont": "GeneralUser-GS.sf2",
+    "bank": 11,
+    "program": 61
+  },
+  "224": {
+    "name": "Whistlin'",
+    "soundfont": "GeneralUser-GS.sf2",
+    "bank": 11,
+    "program": 78
+  },
+  "225": {
+    "name": "Sawtooth Stab",
+    "soundfont": "GeneralUser-GS.sf2",
+    "bank": 11,
+    "program": 81
+  },
+  "226": {
+    "name": "Harpsi Pad",
+    "soundfont": "GeneralUser-GS.sf2",
+    "bank": 11,
+    "program": 88
+  },
+  "227": {
+    "name": "Solar Wind",
+    "soundfont": "GeneralUser-GS.sf2",
+    "bank": 11,
+    "program": 89
+  },
+  "228": {
+    "name": "Mystery Pad",
+    "soundfont": "GeneralUser-GS.sf2",
+    "bank": 11,
+    "program": 96
+  },
+  "229": {
+    "name": "Synth Chime",
+    "soundfont": "GeneralUser-GS.sf2",
+    "bank": 11,
+    "program": 98
+  },
+  "230": {
+    "name": "Bright Saw Stack",
+    "soundfont": "GeneralUser-GS.sf2",
+    "bank": 11,
+    "program": 100
+  },
+  "231": {
+    "name": "Cymbal Crash",
+    "soundfont": "GeneralUser-GS.sf2",
+    "bank": 11,
+    "program": 119
+  },
+  "232": {
+    "name": "Filter Snap",
+    "soundfont": "GeneralUser-GS.sf2",
+    "bank": 11,
+    "program": 121
+  },
+  "233": {
+    "name": "Howling Winds",
+    "soundfont": "GeneralUser-GS.sf2",
+    "bank": 11,
+    "program": 122
+  },
+  "234": {
+    "name": "Interference",
+    "soundfont": "GeneralUser-GS.sf2",
+    "bank": 11,
+    "program": 127
+  },
+  "235": {
+    "name": "Bell Piano",
+    "soundfont": "GeneralUser-GS.sf2",
+    "bank": 12,
+    "program": 0
+  },
+  "236": {
+    "name": "Bell Tine EP",
+    "soundfont": "GeneralUser-GS.sf2",
+    "bank": 12,
+    "program": 4
+  },
+  "237": {
+    "name": "Coupled Harpsi noVel",
+    "soundfont": "GeneralUser-GS.sf2",
+    "bank": 12,
+    "program": 6
+  },
+  "238": {
+    "name": "Christmas Bells",
+    "soundfont": "GeneralUser-GS.sf2",
+    "bank": 12,
+    "program": 10
+  },
+  "239": {
+    "name": "Detun Tnwl Org noVel",
+    "soundfont": "GeneralUser-GS.sf2",
+    "bank": 12,
+    "program": 16
+  },
+  "240": {
+    "name": "Detun Perc Org noVel",
+    "soundfont": "GeneralUser-GS.sf2",
+    "bank": 12,
+    "program": 17
+  },
+  "241": {
+    "name": "Pipe Organ 2 noVel",
+    "soundfont": "GeneralUser-GS.sf2",
+    "bank": 12,
+    "program": 19
+  },
+  "242": {
+    "name": "Clean Guitar 2",
+    "soundfont": "GeneralUser-GS.sf2",
+    "bank": 12,
+    "program": 27
+  },
+  "243": {
+    "name": "Mean Saw Bass",
+    "soundfont": "GeneralUser-GS.sf2",
+    "bank": 12,
+    "program": 38
+  },
+  "244": {
+    "name": "Full Orchestra",
+    "soundfont": "GeneralUser-GS.sf2",
+    "bank": 12,
+    "program": 48
+  },
+  "245": {
+    "name": "Velo Strings Mono",
+    "soundfont": "GeneralUser-GS.sf2",
+    "bank": 12,
+    "program": 49
+  },
+  "246": {
+    "name": "Square Lead 2",
+    "soundfont": "GeneralUser-GS.sf2",
+    "bank": 12,
+    "program": 80
+  },
+  "247": {
+    "name": "Saw Lead 2",
+    "soundfont": "GeneralUser-GS.sf2",
+    "bank": 12,
+    "program": 81
+  },
+  "248": {
+    "name": "Fantasia 2",
+    "soundfont": "GeneralUser-GS.sf2",
+    "bank": 12,
+    "program": 88
+  },
+  "249": {
+    "name": "Solar Wind 2",
+    "soundfont": "GeneralUser-GS.sf2",
+    "bank": 12,
+    "program": 89
+  },
+  "250": {
+    "name": "Tambourine",
+    "soundfont": "GeneralUser-GS.sf2",
+    "bank": 12,
+    "program": 119
+  },
+  "251": {
+    "name": "White Noise Wave",
+    "soundfont": "GeneralUser-GS.sf2",
+    "bank": 12,
+    "program": 122
+  },
+  "252": {
+    "name": "Shooting Star",
+    "soundfont": "GeneralUser-GS.sf2",
+    "bank": 12,
+    "program": 127
+  },
+  "253": {
+    "name": "Woodwind Choir",
+    "soundfont": "GeneralUser-GS.sf2",
+    "bank": 13,
+    "program": 48
+  },
+  "254": {
+    "name": "Square Lead 3",
+    "soundfont": "GeneralUser-GS.sf2",
+    "bank": 13,
+    "program": 80
+  },
+  "255": {
+    "name": "Saw Lead 3",
+    "soundfont": "GeneralUser-GS.sf2",
+    "bank": 13,
+    "program": 81
+  },
+  "256": {
+    "name": "Night Vision",
+    "soundfont": "GeneralUser-GS.sf2",
+    "bank": 13,
+    "program": 88
+  },
+  "257": {
+    "name": "Mandolin",
+    "soundfont": "GeneralUser-GS.sf2",
+    "bank": 16,
+    "program": 25
+  },
+  "258": {
+    "name": "Tin Whistle",
+    "soundfont": "GeneralUser-GS.sf2",
+    "bank": 24,
+    "program": 75
+  },
+  "259": {
+    "name": "Tin Whistle Nm",
+    "soundfont": "GeneralUser-GS.sf2",
+    "bank": 25,
+    "program": 75
+  },
+  "260": {
+    "name": "Tin Whistle Or",
+    "soundfont": "GeneralUser-GS.sf2",
+    "bank": 26,
+    "program": 75
+  },
+  "261": {
+    "name": "Standard 1 Kit",
+    "soundfont": "GeneralUser-GS.sf2",
+    "bank": 120,
+    "program": 0
+  },
+  "262": {
+    "name": "Standard 2 Kit",
+    "soundfont": "GeneralUser-GS.sf2",
+    "bank": 120,
+    "program": 1
+  },
+  "263": {
+    "name": "Standard 3 Kit",
+    "soundfont": "GeneralUser-GS.sf2",
+    "bank": 120,
+    "program": 2
+  },
+  "264": {
+    "name": "Room Kit",
+    "soundfont": "GeneralUser-GS.sf2",
+    "bank": 120,
+    "program": 8
+  },
+  "265": {
+    "name": "Power Kit",
+    "soundfont": "GeneralUser-GS.sf2",
+    "bank": 120,
+    "program": 16
+  },
+  "266": {
+    "name": "Electronic Kit",
+    "soundfont": "GeneralUser-GS.sf2",
+    "bank": 120,
+    "program": 24
+  },
+  "267": {
+    "name": "808/909 Kit",
+    "soundfont": "GeneralUser-GS.sf2",
+    "bank": 120,
+    "program": 25
+  },
+  "268": {
+    "name": "Dance Kit",
+    "soundfont": "GeneralUser-GS.sf2",
+    "bank": 120,
+    "program": 26
+  },
+  "269": {
+    "name": "Jazz Kit",
+    "soundfont": "GeneralUser-GS.sf2",
+    "bank": 120,
+    "program": 32
+  },
+  "270": {
+    "name": "Brush Kit",
+    "soundfont": "GeneralUser-GS.sf2",
+    "bank": 120,
+    "program": 40
+  },
+  "271": {
+    "name": "Orchestral Kit",
+    "soundfont": "GeneralUser-GS.sf2",
+    "bank": 120,
+    "program": 48
+  },
+  "272": {
+    "name": "SFX Kit",
+    "soundfont": "GeneralUser-GS.sf2",
+    "bank": 120,
+    "program": 56
+  },
+  "273": {
+    "name": "CM-64/32L Kit",
+    "soundfont": "GeneralUser-GS.sf2",
+    "bank": 120,
+    "program": 127
+  },
+  "274": {
+    "name": "Standard 1",
+    "soundfont": "GeneralUser-GS.sf2",
+    "bank": 128,
+    "program": 0
+  },
+  "275": {
+    "name": "Standard 2",
+    "soundfont": "GeneralUser-GS.sf2",
+    "bank": 128,
+    "program": 1
+  },
+  "276": {
+    "name": "Standard 3",
+    "soundfont": "GeneralUser-GS.sf2",
+    "bank": 128,
+    "program": 2
+  },
+  "277": {
+    "name": "Room",
+    "soundfont": "GeneralUser-GS.sf2",
+    "bank": 128,
+    "program": 8
+  },
+  "278": {
+    "name": "Power",
+    "soundfont": "GeneralUser-GS.sf2",
+    "bank": 128,
+    "program": 16
+  },
+  "279": {
+    "name": "Electronic",
+    "soundfont": "GeneralUser-GS.sf2",
+    "bank": 128,
+    "program": 24
+  },
+  "280": {
+    "name": "808/909",
+    "soundfont": "GeneralUser-GS.sf2",
+    "bank": 128,
+    "program": 25
+  },
+  "281": {
+    "name": "Dance",
+    "soundfont": "GeneralUser-GS.sf2",
+    "bank": 128,
+    "program": 26
+  },
+  "282": {
+    "name": "Jazz",
+    "soundfont": "GeneralUser-GS.sf2",
+    "bank": 128,
+    "program": 32
+  },
+  "283": {
+    "name": "Brush",
+    "soundfont": "GeneralUser-GS.sf2",
+    "bank": 128,
+    "program": 40
+  },
+  "284": {
+    "name": "Orchestral",
+    "soundfont": "GeneralUser-GS.sf2",
+    "bank": 128,
+    "program": 48
+  },
+  "285": {
+    "name": "SFX",
+    "soundfont": "GeneralUser-GS.sf2",
+    "bank": 128,
+    "program": 56
+  },
+  "286": {
+    "name": "CM-64/32L",
+    "soundfont": "GeneralUser-GS.sf2",
+    "bank": 128,
+    "program": 127
+  },
+  "287": {
+    "name": "Bike Horn",
+    "soundfont": "space-station-14.sf2",
+    "bank": 100,
+    "program": 1
+  },
+  "288": {
+    "name": "pAI Synth",
+    "soundfont": "space-station-14.sf2",
+    "bank": 100,
+    "program": 2
+  },
+  "289": {
+    "name": "Euphonium 1",
+    "soundfont": "space-station-14.sf2",
+    "bank": 100,
+    "program": 3
+  },
+  "290": {
+    "name": "Voice",
+    "soundfont": "space-station-14.sf2",
+    "bank": 100,
+    "program": 4
+  },
+  "291": {
+    "name": "Slugsynth",
+    "soundfont": "space-station-14.sf2",
+    "bank": 100,
+    "program": 5
+  },
+  "292": {
+    "name": "Scurret",
+    "soundfont": "space-station-14.sf2",
+    "bank": 100,
+    "program": 6
+  },
+  "293": {
+    "name": "Weh-pet",
+    "soundfont": "starlight-space-station-14.sf2",
+    "bank": 1,
+    "program": 5
+  },
+  "294": {
+    "name": "metal",
+    "soundfont": "starlight-space-station-14.sf2",
+    "bank": 1,
+    "program": 6
+  }
+}

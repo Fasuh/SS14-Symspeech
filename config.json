@@ -1,0 +1,65 @@
+{
+  "synth": {
+    "sample_rate": 44100,
+    "soundfonts_dir": "midi_soundfonts",
+    "voices_path": "voices.json",
+    "soundfonts": [
+      "GeneralUser-GS.sf2",
+      "space-station-14.sf2",
+      "starlight-space-station-14.sf2"
+    ],
+    "final_release_time": 0.15
+  },
+  "max_text_length": 50,
+  "notes": {
+    "base_note": 60,
+    "space_pause_base": 0.15,
+    "punct_pause_base": 0.30,
+    "note_duration_base": 0.12,
+    "harmony_velocity_dropoff": 20
+  },
+  "effects": {
+    "radio": {
+      "band_low": 400,
+      "band_high": 3200,
+      "drive": 1.3
+    },
+    "walkie": {
+      "band_low": 500,
+      "band_high": 2800,
+      "drive": 2.0,
+      "noise": 0.03
+    },
+    "phone": {
+      "band_low": 350,
+      "band_high": 3400,
+      "drive": 1.1
+    },
+    "megaphone": {
+      "band_low": 600,
+      "band_high": 4000,
+      "drive": 3.0,
+      "boost": 1.5
+    },
+    "underwater": {
+      "cutoff": 500,
+      "reverb_decay": 0.4,
+      "reverb_delay_ms": 60,
+      "wobble_amount": 0.15,
+      "wobble_freq": 2.0
+    },
+    "mystical": {
+      "reverb_decay": 0.5,
+      "reverb_delay_ms": 80,
+      "shimmer_decay": 0.3,
+      "shimmer_delay_ms": 120,
+      "dry_wet_mix": 0.7
+    }
+  },
+  "redis": {
+    "host": "localhost",
+    "port": 6379,
+    "db": 0,
+    "queue": "tts_jobs"
+  }
+}
