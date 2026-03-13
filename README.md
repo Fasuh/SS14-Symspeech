@@ -86,3 +86,6 @@ I recommend personally running this config from a docker-compose, for example:
         - TTS_REDIS_PORT=6379
         - TTS_MAX_TEXT_LENGTH=50
 ```
+
+## Running a test
+This repository has a script that allows for a preview of the generated voices, how they sound like with various options, all you need to do is to navigate to `/test/test_requests.json` and add your own request that you want to try out, then run `/test_generate.py` and you will see results generated in the folder `/test/output/`
