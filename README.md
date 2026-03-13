@@ -77,7 +77,7 @@ I recommend personally running this config from a docker-compose, for example:
         - "6379:6379"
 
     SS14-Symspeech:
-      image: Fasuh/SS14-Symspeech:latest
+      image: fasuh/ss14-symspeech:latest
       restart: unless-stopped
       depends_on:
         - redis
