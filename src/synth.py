@@ -37,6 +37,9 @@ class Synthesizer:
         voice = self.voices[voice_id]
         sfid = self.sfid[voice["soundfont"]]
 
+        self.fs.cc(0, 120, 0)
+        self.fs.get_samples(int(0.01 * self.sample_rate))
+
         self.fs.program_select(0, sfid, voice["bank"], voice["program"])
 
         chunks: list[np.ndarray] = []
