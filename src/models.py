@@ -16,6 +16,7 @@ class TtsRequest(BaseModel):
     vol: float = Field(default=1.0, ge=0.1, le=2.0)
     emotion: int = Field(default=0, ge=0, le=5)
     e: int = Field(default=0, ge=0, le=6)
+    v: int = Field(default=0, ge=0)
     ts: int = 0
 
     @field_validator("t")

@@ -9,10 +9,11 @@ from src.generate import generate
 logging.basicConfig(level=logging.INFO, format="%(asctime)s %(levelname)s %(message)s")
 log = logging.getLogger("tts-worker")
 
-def makeChannel(job_id: str, effect: int) -> str:
+def makeChannel(job_id: str, effect: int, version: int) -> str:
+    prefix = f"result:{version}:" if version else "result:"
     if effect != 0:
-        return f"result:{job_id}:{effect}"
-    return f"result:{job_id}"
+        return f"{prefix}{job_id}:{effect}"
+    return f"{prefix}{job_id}"
 
 def publish(r: redis.Redis, channel: str, ogg: bytes):
     message = bytes([0]) + ogg
@@ -49,11 +50,11 @@ def run():
             ogg = generate(request)
         except Exception as e:
             log.error("Job %s FAILED: %s", request.id, e)
-            channel = makeChannel(request.id, request.e)
+            channel = makeChannel(request.id, request.e, request.v)
             r.publish(channel, b"__END__")
             continue
 
-        channel = makeChannel(request.id, request.e)
+        channel = makeChannel(request.id, request.e, request.v)
         publish(r, channel, ogg)
         log.info("Job %s DONE | %d bytes -> %s", request.id, len(ogg), channel)
 
