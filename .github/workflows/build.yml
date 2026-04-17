@@ -33,7 +33,7 @@ jobs:
         id: build
         with:
           image: ghcr.io/${{ github.repository }}
-          tags: ${{ steps.metadata.outputs.tags }}
+          tags: ${{ steps.metadata.outputs.tags }}-${{ matrix.arch }}
           labels: ${{ steps.metadata.outputs.labels }}
           containerfiles: ./Dockerfile
       - uses: redhat-actions/podman-login@v1
