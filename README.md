@@ -69,9 +69,9 @@ And thats it. its finished, no more config is needed, even default Starlight voi
 I recommend personally running this config from a docker-compose, for example:
 
 ```
-  services:                                                                                                                                                                                                                                                                                                        
+  services:
     redis:
-      image: redis:7-alpine                                                                                                                                                                                                                                                                                        
+      image: redis:7-alpine
       restart: unless-stopped
       ports:
         - "6379:6379"
